@@ -182,4 +182,7 @@ button:focus {
     float: left;
     width: 75%;
   }
+    .contact-info label {
+        padding-top: 8%;
+    }
 }
